@@ -1,0 +1,25 @@
+HOW TO USE d0gecl0udbyp4ss:
+
+
+FIRST plug in your device...
+
+
+
+On Mac OS:
+
+
+-Open up Terminal
+
+-enter in the following: /Users/(username)/Downloads/d0gecl0udbyp4ss-master/pwn.sh and hit enter
+
+*Substiture /Downloads for wherever you unzipped the folder.
+
+
+On Windows:
+
+-Unzip the file folder
+
+-Run pwn.bat
+
+Made with love by @dogera1n (Shravan)
+
